@@ -1,0 +1,5 @@
+An STM32-based data logger is an embedded hardware system built around an STMicroelectronics STM32 microcontroller (which uses an ARM Cortex-M core). Its primary purpose is to automatically capture, process, time-stamp, and store real-world data from various sensors over a period of time.
+
+Because STM32 microcontrollers are highly versatile and scalable, they are a very common choice for designing custom, industrial-grade logging systems.
+
+Core Components of the Syst
